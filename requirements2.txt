@@ -1,4 +1,4 @@
-gym== 0.23.0
+gym==0.23.0
 pybullet==3.2.6
 matplotlib==3.8.2
 tensorboard==2.15.1
